@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Book Explorer</string>
+    <string name="genre">Genre: \n</string>
+    <string name="published_on">"Published on: "</string>
+    <string name="summary">Summary\n</string>
+    <string name="no_details">No Details for this book\n</string>
+</resources>
